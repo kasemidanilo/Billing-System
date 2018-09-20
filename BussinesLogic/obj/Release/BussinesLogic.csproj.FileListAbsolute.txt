@@ -13,12 +13,7 @@ C:\Users\alakada\source\repos\@Drinela\BussinesLogic\obj\Release\BussinesLogic.p
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\bin\Release\BussinesLogic.dll.config
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\bin\Release\BussinesLogic.dll
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\bin\Release\BussinesLogic.pdb
-C:\Users\danik\Desktop\@Drinela\BussinesLogic\bin\Release\EntityFramework.dll
-C:\Users\danik\Desktop\@Drinela\BussinesLogic\bin\Release\EntityFramework.SqlServer.dll
-C:\Users\danik\Desktop\@Drinela\BussinesLogic\bin\Release\EntityFramework.xml
-C:\Users\danik\Desktop\@Drinela\BussinesLogic\bin\Release\EntityFramework.SqlServer.xml
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\obj\Release\BussinesLogic.csprojResolveAssemblyReference.cache
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\obj\Release\BussinesLogic.csproj.CoreCompileInputs.cache
-C:\Users\danik\Desktop\@Drinela\BussinesLogic\obj\Release\BussinesLogic.csproj.CopyComplete
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\obj\Release\BussinesLogic.dll
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\obj\Release\BussinesLogic.pdb
