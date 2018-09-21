@@ -266,7 +266,6 @@ C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\DevExpress.XtraGauges.v18.1.Cor
 C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
 C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\DevExpress.XtraCharts.v18.1.Extensions.dll
 C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
-C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\BussinesLogic.dll.config
 C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\DevExpress.Data.v18.1.xml
 C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\DevExpress.DataAccess.v18.1.xml
 C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\DevExpress.DataAccess.v18.1.UI.xml
@@ -420,5 +419,6 @@ C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\de\DevExpress.XtraPivotGrid.v18
 C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
 C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
 C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\danik\Desktop\@Drinela\Client\bin\Debug\BussinesLogic.dll.config
 C:\Users\danik\Desktop\@Drinela\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Users\danik\Desktop\@Drinela\Client\obj\Debug\Client.csproj.CopyComplete
