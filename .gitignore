@@ -11,3 +11,5 @@ BussinesLogic/bin/Release/*
 !Client/bin/Release/Reporting/*
 !Client/bin/Debug/DrinelaDB.mdb
 !Client/bin/Release/DrinelaDB.mdb
+BussinesLogic/obj/
+Client/obj/
