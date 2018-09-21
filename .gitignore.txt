@@ -5,5 +5,9 @@
 *.dll.config
 Client/bin/Debug/
 Client/bin/Release/
-BussinesLogic/bin/Debug/
-BussinesLogic/bin/Release/
+BussinesLogic/bin/Debug/*
+BussinesLogic/bin/Release/*
+!Client/bin/Debug/Reporting/*
+!Client/bin/Release/Reporting/*
+!Client/bin/Debug/DrinelaDB.mdb
+!Client/bin/Release/DrinelaDB.mdb
