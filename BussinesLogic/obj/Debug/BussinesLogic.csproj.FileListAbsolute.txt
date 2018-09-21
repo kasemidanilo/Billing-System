@@ -13,7 +13,6 @@ C:\Users\alakada\source\repos\@Drinela\BussinesLogic\obj\Debug\BussinesLogic.csp
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\bin\Debug\BussinesLogic.dll.config
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\bin\Debug\BussinesLogic.dll
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\bin\Debug\BussinesLogic.pdb
-C:\Users\danik\Desktop\@Drinela\BussinesLogic\obj\Debug\BussinesLogic.csprojResolveAssemblyReference.cache
+C:\Users\danik\Desktop\@Drinela\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\obj\Debug\BussinesLogic.dll
 C:\Users\danik\Desktop\@Drinela\BussinesLogic\obj\Debug\BussinesLogic.pdb
-C:\Users\danik\Desktop\@Drinela\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
